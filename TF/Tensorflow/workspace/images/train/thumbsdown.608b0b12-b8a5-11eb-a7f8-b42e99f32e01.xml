@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>thumbsdown.608b0b12-b8a5-11eb-a7f8-b42e99f32e01.jpg</filename>
+	<path>D:\TF\Tensorflow\workspace\images\collectedimages\thumbsdown\thumbsdown.608b0b12-b8a5-11eb-a7f8-b42e99f32e01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>433</ymin>
+			<xmax>584</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>
